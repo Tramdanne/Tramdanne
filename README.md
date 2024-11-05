@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋,|Nguyen Thi Tram Dan - グエン・ティ・チャム・ダン</h1>
 <h3 align="center">A frontend developer from Vietnam</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/5e/94/51/5e945157c032272d37afad008acf8136.jpg">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/8c/bc/b5/8cbcb52047fdae05884260b27b661468.jpg">
 
 
 - 🔭 I’m currently learning and designing a website for myself
