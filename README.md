@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,|Nguyen Thi Tram Dan - グエン・ティ・チャム・ダン</h1>
-<h3 align="center">A frontend developer from Vietnam</h3>
+<h3 align="center">A Web developer from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/8c/bc/b5/8cbcb52047fdae05884260b27b661468.jpg">
 
 
@@ -13,6 +13,11 @@
 
 - ⚡ Fun fact
   <br> **I enjoy learning new knowledge and feel excited when creating products from what you’ve learned.**
+  <br>
+  <br> **In addition, I really enjoy participating in volunteer activities and have joined four volunteer projects during my university years.
+  <br>I believe that volunteering helps me realize the value of small things in life and provides motivation to overcome personal challenges when witnessing the resilience and determination of others.**
+  <br>
+  <br>**My motto is "NOTHING IS IMPOSSIBLE"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
